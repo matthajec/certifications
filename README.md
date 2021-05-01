@@ -1,6 +1,8 @@
 # Certifications
-This is a list of certifications I have recieved from various online courses.
+This is a list of certifications I have recieved online.
 
 ## [Scrimba Front End Developer Boot Camp](https://scrimba.com/certificate/uQmvNMCG/gfrontend)
-Scrimba is an interactive platform for learning to code. The 70+ hour course goes in depth teaching front end web development. Included in the course are lessons on REST APIs, Responsive and Mobile-fist design, UI, Git version control, and React (functional and class-based components, hooks, routing, reducers, and more). 
-It contains multiple challenges, including a netflix clone with authentication and a database through Google Firebase.
+This course contains over 70 hours of top-notch tutorials, hundreds of coding challanges, and dozens of real-world projects. Topics covered are HTML, CSS, JS, responsive and mobile-first design, working with APIs, UI/UX, Git, and simple and advanced React topics with modern functional components or class-based components.
+
+## [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide)
+This course teaches students to build modern, fast, and scalable server-side web applications with NodeJS, databases like SQL or MongoDB, and more. It includes sections on server-side rendered apps, RESTful APIs, and GraphQL APIs. The emerging technology DenoJS is also taught.
